@@ -1,0 +1,64 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,700,800);
+@import url(http://allfont.ru/allfont.css?fonts=pt-sans);
+@import url(http://allfont.ru/allfont.css?fonts=roboto-thin);
+@import "animate.css";
+
+
+.news {
+	padding: 20px;
+}
+
+
+.block {
+   width: 900px;
+   background: #fff;
+    margin: 0 auto;
+	margin-top: 20px;
+}
+
+.news .pic {
+    height: 190px;
+    color: #fff;
+}
+.news .pic h1 {
+    padding-top: 140px;
+    font-size: 1.4rem;
+    font-weight: 100;
+    padding-left: 25px;
+}
+.news .pic span {
+    font-size: .8rem;
+    float: right;
+    margin-right: 25px;
+    border: 2px solid #fc0;
+    padding: 7px;
+    padding-top: 5px;
+}
+.news .text {
+    font-weight: 100;
+    line-height: 20px;
+    font-size: .9rem;
+    padding: 30px;
+}
+
+#newsp {
+	text-align: center;
+	padding: 130px;
+}
+
+#newstop {
+background-image: url("img/top1.png");
+background-size: cover;
+background-position: center;
+background-attachment: fixed;
+height: 300px; 
+width: 100%; 	 
+
+}
+
+p {
+	
+	font-size: 13px;
+	width: 450px;
+	color: #242424;
+}
